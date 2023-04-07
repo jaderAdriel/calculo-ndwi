@@ -26,11 +26,11 @@ Os dados foram pré-processados da seguinte maneira:
 
 A imagem colorida é mostrada abaixo:
 
-![Imagem RGB](imagens/rgb.png)
+![Imagem colorida](https://github.com/jaderAdriel/calculo-ndwi/blob/main/imagens/S2A_MSIL1C_20230401T131241_N0509_R138_T23LQE_20230401T180900-ql.jpg?raw=true)
 
 A imagem NDWI resultante do calculo é mostrada abaixo:
 
-![Imagem NDWI](imagens/ndwi.png)
+![Imagem NDWI](https://github.com/jaderAdriel/calculo-ndwi/blob/main/imagens/imagemNDWI.png?raw=true)
 
 A partir da imagem NDWI, é possível identificar áreas de água em cinza, e áreas de vegetação em branco. Podemos identificar como pontos importantes a barragem de ceraíma e a barragem do poço magro.
 
